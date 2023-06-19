@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadowmonarchv
 - 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning django and node
-- 💞️ I’m looking to collaborate on Python Porjects
+- 🌱 I’m currently learning django, hadoop, sql and big data
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me mustafamirza1506@gmail.com
 
 <!---
